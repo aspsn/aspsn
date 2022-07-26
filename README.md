@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @aspsn
-- 👀 I’m interested in javascript
+- 👋 Hi, I’m asep san
+- 👀 I’m interested in javascript & typescript
 - 🌱 I’m currently learning react, nextJS, node.js, react-native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
